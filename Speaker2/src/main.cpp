@@ -2,7 +2,7 @@
 #include "XT_DAC_Audio.h"
 #include "SoundData.h"
 
-XT_Wav_Class Sound(Force);
+XT_Wav_Class Sound(Rick);
 XT_DAC_Audio_Class DacAudio(25,0);
 uint32_t DemoCounter=0;
 
